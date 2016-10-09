@@ -1,0 +1,82 @@
+Navigation
+
+---alt---
+move from word to word
+
+---shift+alt---
+select word to word
+
+---command---
+move to end of line, beginning of line
+
+---shift+command---
+select to end of line, beginning of line
+
+---command+L---
+select entire line, regardless of position
+
+---command+shift+D---
+duplicate this line
+
+---command+shift+D---
+
+duplicate this
+	structured
+		and indented
+		code
+	end
+end
+
+---alt---
+change this line
+change this line
+change this line
+
+---command+click---
+change one word
+that is also this word
+and this word
+
+---command+click---
+insert something
+that is also here
+and finally on this line
+
+---command+shift+L---
+change this line easy method
+change this line easy method
+change this line easy method
+
+---command+D---
+change a single word word
+easy word way to change
+just every instance of word it
+going forward
+
+
+---command+A---
+select everything
+
+---command+shift---
+select all to beginning, all to end
+
+---command+shift+v---
+		here is
+			some indented
+				code
+			end
+		end
+
+---command+],command+[---
+indent
+		unindent
+
+---control+command+up---
+line 2 - texttext
+line 3 - texttexttext
+line 4 - texttexttexttext
+line 1 - text
+line 5 - texttexttexttexttext
+
+---command+delete---
+delete this entire line without selecting it

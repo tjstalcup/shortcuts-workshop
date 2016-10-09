@@ -1,0 +1,28 @@
+/*---command+shift+J*/
+/* select an entire indented block*/
+* {
+	font-family: sans-serif;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+/*---F5---*/
+/* sort alphabetically */
+
+/*---command+d---*/
+/* select an entire word */
+body {
+	background-color: lightblue;
+}
+
+/*---command+shift+space*/
+/* grow your selection */
+p {
+	margin: 5px 0px;
+}
+
+.series {
+	border: 1px solid red;
+	padding: 0;
+	margin: 0 10px;
+}
