@@ -17,6 +17,19 @@ select entire line, regardless of position
 
 ---command+shift+D---
 duplicate this line
+duplicate that line
+duplicate them line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
+duplicate there line
 
 ---command+shift+D---
 
@@ -28,9 +41,16 @@ duplicate this
 end
 
 ---alt---
-change this line
-change this line
-change this line
+<li>change this line - something - </li>
+<li>change this - something -  exact line</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something -  as well</li>
+<li>change this line - something - as well</li>
 
 ---command+click---
 change one word
@@ -43,14 +63,14 @@ that is also here
 and finally on this line
 
 ---command+shift+L---
-change this line easy method
-change this line easy method
-change this line easy method
+<li>change this line --- easy method</li>
+<li>change this line --- easy method</li>
+<li>change this line --- easy method</li>
 
 ---command+D---
-change a single word word
-easy word way to change
-just every instance of word it
+change a single here
+easy here way to change
+just every instance of here it
 going forward
 
 
@@ -61,6 +81,12 @@ select everything
 select all to beginning, all to end
 
 ---command+shift+v---
+		here is
+			some indented
+				code
+			end
+		end
+
 		here is
 			some indented
 				code
@@ -79,4 +105,4 @@ line 1 - text
 line 5 - texttexttexttexttext
 
 ---command+delete---
-delete this entire line without selecting it
+delete this entire lines without selecting it
